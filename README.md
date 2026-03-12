@@ -37,15 +37,8 @@ From the submitted Q2 investigation documents and final presentation:
 - Defect concentration was investigated on MAFT lines, with emphasis on low-quality output related to the "Renew 360" product stream.
 - Maintenance scheduling quality was treated as a contributing factor in recurring losses.
 
-## External Proof and Achievements
-
-- MUST VIEW - Final report slide deck: https://drive.google.com/file/d/1_-H7wdHcHUzcnUgDUTWqxpA30ABbiKYf/view?usp=sharing
-- Certificate image: https://drive.google.com/file/d/1wdAD0EUkCLpf5XGZghdqK-FmWjVubZg8/view?usp=sharing
-- Top 30 competition evidence: https://www.facebook.com/share/14ag9eTr7Cr/
-
-### Certificate Preview
-
-![RBAC 2025 Top 30 Certificate](certi_PROBAI.png)
+## Achievements
+- Top 30 competition
 
 ## Repository Structure
 
